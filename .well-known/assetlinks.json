@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "web",
-      "site": "https://forgerock-auth.devs.banksinarmas.com"
+      "site": "https://raw.githubusercontent.com/devatiwow/fido2/main/"
     }
   },
   {
@@ -17,7 +17,7 @@
       "namespace": "android_app",
       "package_name": "com.forgerockdemo",
       "sha256_cert_fingerprints": [
-        "55:4D:61:EA:2D:12:1D:DE:93:CA:AF:F2:D4:11:DA:A0:5B:48:9C:70:CE:63:DC:A4:A3:C2:F8:F6:5F:36:6D:E8"
+         "28:BF:E1:5F:F7:89:FD:0D:C9:D5:A8:D0:EE:61:7D:6D:FE:27:64:EC:D8:FB:93:C1:68:28:B1:4C:49:44:5A:BE"
       ]
     }
   }]
