@@ -15,7 +15,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.forgerockdemo",
+      "package_name": "com.ubyapp",
       "sha256_cert_fingerprints": [
          "28:BF:E1:5F:F7:89:FD:0D:C9:D5:A8:D0:EE:61:7D:6D:FE:27:64:EC:D8:FB:93:C1:68:28:B1:4C:49:44:5A:BE"
       ]
