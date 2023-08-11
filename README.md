@@ -8,14 +8,10 @@
     </tr>
     <tr>
         <td>
-            <video width="320" height="240" controls>
-              <source src="https://github.com/devatiwow/fido2/assets/38220286/34016391-f173-40d2-80c4-49829198018a" type="video/mp4">
-            </video>
+            https://github.com/devatiwow/fido2/assets/38220286/34016391-f173-40d2-80c4-49829198018a
             </td>
         <td>
-            <video width="320" height="240" controls>
-              <source src="https://github.com/devatiwow/fido2/assets/38220286/673df299-031f-4323-b81b-5489aa4e2dcd" type="video/mp4">
-            </video>
+            https://github.com/devatiwow/fido2/assets/38220286/673df299-031f-4323-b81b-5489aa4e2dcd
             </td>
     </tr> 
    <tr>
