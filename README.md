@@ -5,7 +5,7 @@
     </tr>
     <tr>
         <td> 
-            <video width="320" height="240" controls>
+            <video width="320" height="640" controls>
               <source src="https://github.com/devatiwow/fido2/assets/38220286/34016391-f173-40d2-80c4-49829198018a">
             </video>
         </td>
