@@ -1,11 +1,9 @@
 |https://github.com/devatiwow/fido2/assets/38220286/673df299-031f-4323-b81b-5489aa4e2dcd
 
-<div id="videoal">
 <table>
     <tr>
         <td>
-            <iframe width="200" height="200"
-                source src="https://github.com/devatiwow/fido2/assets/38220286/673df299-031f-4323-b81b-5489aa4e2dcd">
+            <iframe width="200" height="200 src="https://github.com/devatiwow/fido2/assets/38220286/673df299-031f-4323-b81b-5489aa4e2dcd">
             </iframe>
        </td>
        <td>
@@ -16,4 +14,3 @@
        </td>
     </tr>
 </table>
-</div>
