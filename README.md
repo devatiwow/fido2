@@ -1,6 +1,5 @@
 https://github.com/devatiwow/fido2/assets/38220286/673df299-031f-4323-b81b-5489aa4e2dcd
-<html>
-<body>
+
 <table>
     <tr>
         <td><p>Before</p></td>
@@ -19,5 +18,3 @@ https://github.com/devatiwow/fido2/assets/38220286/673df299-031f-4323-b81b-5489a
         <td> <img src="https://github.com/banksinarmas/mobile-app/assets/38220286/7cd09a5c-6a4d-4479-bcd5-31eaac270e44"  alt="1" width = 360px height = 840px ></td>
 </tr>
 </table>
-</body>
-</html>
