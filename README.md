@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td> <img src="https://github.com/banksinarmas/mobile-app/assets/38220286/55c9ef2f-839d-40b7-be08-5146fbf479c4" width=360px height=820px> </td>
+    <td> <img src="https://github.com/banksinarmas/mobile-app/assets/38220286/55c9ef2f-839d-40b7-be08-5146fbf479c4" width="360px" height="820px"> </td>
 
     <td> <img src="https://github.com/banksinarmas/mobile-app/assets/38220286/55c9ef2f-839d-40b7-be08-5146fbf479c4" width=360px height=820px> </td>
    
